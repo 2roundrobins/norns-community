@@ -1684,6 +1684,18 @@
         "jf"
       ]
     },
+        {
+      "project_name": "messiaen",
+      "project_url": "https://github.com/2roundrobins/messiaen",
+      "author": "2roundrobins, sonocircuit",
+      "description": "a delay/looper based on birdsong",
+      "discussion_url": "https://llllllll.co/t/68021",
+      "documentation_url": "https://github.com/2roundrobins/messiaen",
+      "tags": [
+        "delay",
+        "looper",
+      ]
+    },
     {
       "project_name": "metrix",
       "project_url": "https://github.com/kasperbauer/metrix",
